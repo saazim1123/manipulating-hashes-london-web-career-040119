@@ -14,7 +14,7 @@ def first_challenge
   }
 
   #your code here
-  contacts.each do ||
+  contacts.each do |contact, data|
     
     
     

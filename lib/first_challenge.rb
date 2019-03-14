@@ -17,7 +17,6 @@ def first_challenge
   contacts.each do |contact, data|
     data.each do |key, value|
       
-      
     end
   end
     

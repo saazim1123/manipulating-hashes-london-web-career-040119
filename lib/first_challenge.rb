@@ -14,7 +14,7 @@ def first_challenge
   }
 
   #your code here
-  
+  contacts["Jon Snow"]
 
   #remember to return your newly altered contacts hash!
   contacts

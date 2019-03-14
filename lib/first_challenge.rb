@@ -21,7 +21,6 @@ def first_challenge
           flavour == "strawberry"
         end
       end
-      
     end
   end
     
